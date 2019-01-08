@@ -1,14 +1,14 @@
-условие: 
+### Condition: 
 Implement function ToLowerCase() that has a string parameter str, and returns the same string in lowercase.
 
  
 
-Пример:
+### Example:
 
 Input: "Hello"
 Output: "hello"
 
-Решение:
+### solution:
 
 /**
  * @param {string} str
